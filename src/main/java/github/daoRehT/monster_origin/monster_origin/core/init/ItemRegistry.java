@@ -10,13 +10,11 @@ import net.minecraft.util.ResourceLocation;
 import net.minecraftforge.event.RegistryEvent;
 import net.minecraftforge.eventbus.api.SubscribeEvent;
 import net.minecraftforge.fml.common.Mod;
-import org.apache.logging.log4j.Logger;
 
 
 @Mod.EventBusSubscriber(bus=Mod.EventBusSubscriber.Bus.MOD)
 
 public class ItemRegistry {
-    public static final Logger LOGGER = Monster_origin.LOGGER;
     public static final String MOD_ID = Monster_origin.MOD_ID;
 
 
