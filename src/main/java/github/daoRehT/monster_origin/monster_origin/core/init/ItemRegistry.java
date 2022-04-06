@@ -28,6 +28,7 @@ public class ItemRegistry {
                     ItemList.surprisebox = new Item(new Item.Properties().group(ItemGroup.COMBAT)).setRegistryName(location("surprisebox")),
                     ItemList.taichi = new Taichi().setRegistryName(location("taichi")),
                     ItemList.origin_mineral = new Item(new Item.Properties().group(ItemGroup.MATERIALS)).setRegistryName(location("origin_mineral")),
+                    ItemList.origin_iron = new Item(new Item.Properties().group(ItemGroup.MATERIALS)).setRegistryName(location("origin_iron")),
                     ItemList.buster_sword = new BusterSword().setRegistryName(location("buster_sword")),
                     ItemList.origin_ore = new BlockItem(BlockList.origin_ore.getBlock(),new Item.Properties().group(ItemGroup.MATERIALS)).setRegistryName("origin_ore")
 

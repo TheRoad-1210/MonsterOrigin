@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": { "model": "monster_origin:block/origin_ore" }
+  }
+}
