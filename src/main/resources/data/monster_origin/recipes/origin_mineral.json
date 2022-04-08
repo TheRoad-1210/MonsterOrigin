@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "monster_origin:origin_ore"
+  },
+  "result": "monster_origin:origin_mineral",
+  "experience": 1.0,
+  "cookingtime": 200
+}
