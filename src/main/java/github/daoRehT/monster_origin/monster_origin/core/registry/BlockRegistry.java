@@ -1,10 +1,9 @@
-package github.daoRehT.monster_origin.monster_origin.core.init;
+package github.daoRehT.monster_origin.monster_origin.core.registry;
 
 import github.daoRehT.monster_origin.monster_origin.Monster_origin;
 import github.daoRehT.monster_origin.monster_origin.commom.block.BlockList;
 import github.daoRehT.monster_origin.monster_origin.commom.block.mineral.OriginOre;
 import net.minecraft.block.Block;
-import net.minecraft.block.OreBlock;
 import net.minecraft.util.ResourceLocation;
 import net.minecraftforge.event.RegistryEvent;
 import net.minecraftforge.eventbus.api.SubscribeEvent;

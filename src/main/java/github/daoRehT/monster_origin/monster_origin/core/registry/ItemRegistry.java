@@ -1,4 +1,4 @@
-package github.daoRehT.monster_origin.monster_origin.core.init;
+package github.daoRehT.monster_origin.monster_origin.core.registry;
 
 import github.daoRehT.monster_origin.monster_origin.Monster_origin;
 import github.daoRehT.monster_origin.monster_origin.commom.block.BlockList;
